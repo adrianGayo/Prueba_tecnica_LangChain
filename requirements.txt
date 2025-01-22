@@ -8,3 +8,6 @@ cohere
 os
 pandas
 numpy
+pymupdf
+langchain-community
+langchain_openai
