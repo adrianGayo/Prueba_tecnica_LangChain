@@ -6,8 +6,10 @@ openai
 chromadb
 cohere
 os
-pandas
-numpy
+dotenv
 pymupdf
 langchain-community
 langchain_openai
+langchain_cohere 
+pymupdf
+typing-extensions
